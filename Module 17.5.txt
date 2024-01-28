@@ -1,0 +1,4 @@
+NaN Dekhe eita number kina ebong number ehh convert kora somvob kina.
+
+console.log(isNaN("29")); //false
+console.log(isNaN("abc")); //true
